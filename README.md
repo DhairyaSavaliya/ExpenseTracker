@@ -60,4 +60,3 @@ The Expense Tracking Database Management System `DBMS` project is a user-friendl
 
 ---
 
-![Home Page](uploads/Home-Page.png)
